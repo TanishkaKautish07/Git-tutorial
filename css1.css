@@ -1,0 +1,18 @@
+h2 {
+    color: black;
+    background-color: rgb(6, 151, 0);
+}
+
+button {
+    color: mediumseagreen;
+    background-color: brown;
+}
+
+p {
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+
+body {
+    background: #c5e;
+}
