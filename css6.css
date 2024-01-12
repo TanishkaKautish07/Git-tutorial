@@ -1,0 +1,26 @@
+/*h1 {
+    background-color: rgb(105, 105, 209);
+    border: 3px;
+    display: inline;
+}
+
+span {
+    background-color: rgb(189, 155, 173);
+    border: 1px;
+    display: block;
+}*/
+span {
+    background-color: palevioletred;
+    border: 1px solid beige;
+    width: 100px;
+    padding: 50px;
+    margin: 100px;
+}
+
+div {
+    background-color: burlywood;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    display: inline-block;
+}
