@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #040d24;
+}
+
+button {
+    background: none;
+    border: 2px solid;
+    color: rgb(203, 142, 28);
+    padding: 20px 30px;
+    font-size: 1em;
+}
+
+button:hover {
+    border-color: rgb(188, 188, 50);
+    color: whitesmoke;
+    box-shadow: 0 0.5em 0.5em -0.4em rgb(188, 188, 50);
+    transform: translateY(-0.7em);
+    transition: all 0.25s;
+    cursor: pointer;
+}

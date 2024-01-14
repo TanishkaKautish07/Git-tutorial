@@ -9,9 +9,10 @@ span {
     border: 1px;
     display: block;
 }*/
+
 span {
     background-color: palevioletred;
-    border: 1px solid beige;
+    border: 2px solid rgb(101, 101, 8);
     width: 100px;
     padding: 50px;
     margin: 100px;

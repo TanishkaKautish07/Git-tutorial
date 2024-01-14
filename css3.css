@@ -33,7 +33,7 @@ span {
 }
 
 footer a {
-    color: #19020c;
+    color: #8f1f50;
 }
 
 .post a {
@@ -41,12 +41,12 @@ footer a {
 }
 
 input+button {
-    background-color: pink;
+    background-color: rgb(213, 93, 113);
 }
 
 h2+button {
     font-size: 50px;
-    color: purple;
+    color: rgb(74, 14, 74);
 }
 
 footer>a {
