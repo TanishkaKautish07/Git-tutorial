@@ -1,5 +1,5 @@
 body {
-    font-family: open Sans, sans-serif;
+    font-family: Open Sans, sans-serif;
 }
 
 h1 {
@@ -21,7 +21,6 @@ ul {
     justify-content: space-evenly;
 }
 
-ul,
 li {
     display: inline;
     margin: 0;
