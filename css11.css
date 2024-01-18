@@ -48,13 +48,23 @@ li {
 
 @media (orientation:landscape) {
     body {
-        background-color: rgb(203, 188, 188);
+        background-color: rgb(248, 243, 243);
     }
 }
 
 @media (max-width: 768px) {
     h1 {
         font-size: 4em;
+    }
+
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
     }
 }
 
